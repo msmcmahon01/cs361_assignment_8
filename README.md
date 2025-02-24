@@ -10,7 +10,7 @@ Routes:
 ### Example Input
 ```json
 {
-    "itemName": "Potion",
+    "itemName": "Potion"
 }
 ```
 
