@@ -20,3 +20,6 @@ Routes:
     "modifiedName": "Super Potion"
 }
 ```
+
+### UML Sequence Diagram
+"https://github.com/msmcmahon01/cs361_assignment_8/blob/main/CS361%20_%20Microservice%20A%20UML%20Sequence%20Diagram.png"
