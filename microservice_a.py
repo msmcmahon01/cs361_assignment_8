@@ -21,9 +21,9 @@ def add_adjective():
     item_name = data.get('itemName')
 
     adjective = random.choice(adjective_lists)
-    modified_name = f"{adjective} {item_name}"
+    modifiedName = f"{adjective} {item_name}"
 
-    return jsonify({"modifiedName": modified_name})
+    return jsonify({"modifiedName": modifiedName})
 
 # Error handling for invalid requests
 @app.errorhandler(400)
