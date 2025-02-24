@@ -22,4 +22,4 @@ Routes:
 ```
 
 ### UML Sequence Diagram
-https://github.com/msmcmahon01/cs361_assignment_8/blob/main/CS361%20_%20Microservice%20A%20UML%20Sequence%20Diagram.png
+![CS361 _ Microservice A UML Sequence Diagram](https://github.com/user-attachments/assets/0b8f0d80-23c9-482d-9055-6b892465fb69)
